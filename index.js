@@ -23,7 +23,7 @@ function currentLine(katzDeliLine) {
   // code block to be executed
   return (`The line is currently: ${i+1}. ${katzDeliLine[i]}`);
 }
-    return ("The line is currently empty.");
+  return (`The line is currently: ${i+1}.
 }
   
 
