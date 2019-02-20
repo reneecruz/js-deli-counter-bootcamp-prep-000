@@ -24,7 +24,7 @@ function currentLine(katzDeliLine) {
   nameDisplay.push(`${i+1}. ${katzDeliLine[i]}`);
 }
   
-  return (`The line is currently:${nameDisplay.join(", ")}`)
+  return (`The line is currently: ${nameDisplay.join(", ")}`)
 }
   
 
