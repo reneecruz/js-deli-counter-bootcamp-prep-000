@@ -21,6 +21,7 @@ function currentLine(katzDeliLine) {
   var nameDisplay = [];
   for (let i = 0; i < katzDeliLine.length; i++) {
   // code block to be executed
+  nameDisplay.push()
   return (`The line is currently: ${i+1}. ${katzDeliLine[i]}`);
 }
   return (`The line is currently: ${i+1}.
